@@ -15,9 +15,10 @@ Trabalho na área de tecnologia de uma empresa de crédito consignado. Monto e c
 | Projeto | O que é | Onde ver |
 |---|---|---|
 | Sistema do mercado | Ponto de venda no navegador com leitor de código de barras pela câmera e controle de estoque | [pdv-mercado](https://github.com/Henrique-Mat0s/pdv-mercado) · [demonstração](https://henrique-mat0s.github.io/pdv-mercado/) · [estoque-mercado](https://github.com/Henrique-Mat0s/estoque-mercado) |
-| Central DHO | Leitor de currículos com IA: recebe por e-mail, WhatsApp ou upload, extrai os dados e ordena os candidatos por vaga | em publicação |
-| Sistema da logística | Retirada e devolução de veículos e gestão da frota | em publicação |
+| Central RH | Plataforma de recrutamento com IA: recebe currículos por e-mail (IMAP), WhatsApp ou upload, extrai os dados e classifica os candidatos por vaga | em publicação |
+| Central Logística | Simulador 3D de cargas e cubagem: quantos volumes cabem em cada caminhão e como a carga fica arrumada | em publicação |
 | Sistema de bots e dashboards | Catálogo de aplicações e painel de controle dos bots | em publicação |
+| Gerenciador de veículos | Retirada e devolução de veículos com identificação por foto e histórico da frota | em publicação |
 
 ## Ferramentas
 
