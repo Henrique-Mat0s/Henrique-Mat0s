@@ -2,7 +2,7 @@
 
 Trabalho na área de tecnologia de uma empresa de crédito consignado. Monto e conserto computadores e celulares, cuido do ambiente da equipe (Windows, navegadores, Python) e construo automações e sistemas web que tiram trabalho repetitivo do dia a dia.
 
-**Procuro vaga de Assistente de TI.** Portfólio completo: [henrique-mat0s.github.io](https://henrique-mat0s.github.io)
+ Portfólio completo: [henrique-mat0s.github.io](https://henrique-mat0s.github.io)
 
 ## O que faço hoje
 
